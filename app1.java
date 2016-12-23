@@ -12,7 +12,7 @@ public class App ^M
 
 
 
-        System.out.println( "Hello h " );^M
+        System.out.println( "Hello hi " );^M
 
     }^M
 }^M
